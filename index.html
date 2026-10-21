@@ -21,9 +21,12 @@
 <meta name="twitter:title" content="BandNine: IELTS Speaking practice">
 <meta name="twitter:description" content="Practise the IELTS Speaking test out loud with Alex, a live AI examiner. Full mock tests for Part 1, Part 2 and Part 3, estimated bands for each criterion, and fixes you say again.">
 <meta name="twitter:image" content="https://bandnine.org/img/og.jpg">
-<link rel="icon" href="./favicon.png" type="image/png">
-<link rel="apple-touch-icon" href="./apple-touch-icon.png">
-<link rel="stylesheet" href="./assets/site.css">
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+<link rel="stylesheet" href="/assets/site.css">
 <script>document.documentElement.className='js'</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://bandnine.org/#org","name":"BandNine","url":"https://bandnine.org/","logo":"https://bandnine.org/apple-touch-icon.png","email":"hello@bandnine.org","contactPoint":{"@type":"ContactPoint","contactType":"customer support","email":"hello@bandnine.org","availableLanguage":"English"}}</script>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"BandNine: IELTS Speaking","operatingSystem":"iOS, Android","applicationCategory":"EducationalApplication","description":"IELTS Speaking practice with a live AI examiner: mock tests for Part 1, Part 2 and Part 3, estimated bands for the four criteria, and corrections you say again.","url":"https://bandnine.org/","image":"https://bandnine.org/img/og.jpg","publisher":{"@id":"https://bandnine.org/#org"},"inLanguage":"en","offers":{"@type":"Offer","price":"0","priceCurrency":"USD","description":"Free to download. 17 welcome credits; credit packs and BandNine Plus are in-app purchases."}}</script>
@@ -31,15 +34,16 @@
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
+<!-- site:header -->
 <header class="top"><div class="wrap">
-<a class="brand" href="./"><img src="./img/icon-192.webp" width="32" height="32" alt="">BandNine</a>
-<nav aria-label="Main"><a class="opt" href="./#examiner">How it works</a><a class="opt" href="./#pricing">Pricing</a><a href="./blog/">Guides</a><a href="./support">Support</a></nav>
+<a class="brand" href="/"><img src="/img/icon-192.webp" width="32" height="32" alt="">BandNine</a>
+<nav aria-label="Main"><a class="opt" href="/#examiner">How it works</a><a href="/blog/">Guides</a><a class="opt" href="/#pricing">Pricing</a><a class="opt" href="/support">Support</a><a class="get" href="/#download">Get the app</a></nav>
 </div></header>
+<!-- /site:header -->
 <main id="main">
 <section class="hero on-navy" aria-labelledby="hero-title">
   <div class="wrap">
     <div>
-      <p class="eyebrow">IELTS Speaking practice</p>
       <h1 id="hero-title">Speak with the examiner before test day.</h1>
       <p class="lede">Take the IELTS Speaking test out loud with Alex: Part 1, the Part 2 task card with one minute to prepare, then the Part 3 discussion. Read an estimated band for each criterion and say your weakest lines again.</p>
       <div class="badges" id="download">
@@ -47,82 +51,141 @@
         <a class="badge" href="#download" data-store="ios"><span><small>Download on the</small><strong>App Store</strong></span></a>
         <a class="badge" href="#download" data-store="android"><span><small>Get it on</small><strong>Google Play</strong></span></a>
       </div>
-      <p class="note">Free to download. Your first full mock test is included.</p>
+      <p class="note">Free to download. Your first full mock test is included, scored against the four public Speaking criteria.</p>
     </div>
-    <div class="mark" data-mark role="img" aria-label="The BandNine mark: a ring of coral dots"></div>
+    <div class="demo" data-demo aria-hidden="true">
+      <canvas></canvas>
+      <div class="caption"><p class="who"></p><p class="line"></p><p class="sub"></p></div>
+    </div>
+    <p class="sr">The BandNine mark, a ring of coral dots, asks a Part 1 question, listens while you answer, and shows an estimated band.</p>
   </div>
 </section>
+
 <section id="examiner" aria-labelledby="how-title">
   <div class="wrap">
-    <p class="eyebrow">How it works</p>
     <h2 id="how-title">The whole Speaking test, then one thing to fix.</h2>
+    <p class="lede">Alex runs the test in the real order and at the real pace. The report tells you which criterion is holding your band down, and Say it again lets you fix one line at a time.</p>
     <div class="story">
       <div class="stage" aria-hidden="true">
-        <div class="phone on"><img src="img/22-examiner-speaking.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
-        <div class="phone"><img src="img/24-part2-task-card-prep.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
-        <div class="phone"><img src="img/08-result.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
-        <div class="phone"><img src="img/08b-result-fixes.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
-        <div class="phone"><img src="img/09-say-it-again.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
-        <div class="phone"><img src="img/02-today-plan.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
-        <div class="phone"><img src="img/05-pack-result.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
+        <div class="phone on"><img src="/img/22-examiner-speaking.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
+        <div class="phone"><img src="/img/24b-part2-task-card-bullets.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
+        <div class="phone"><img src="/img/08-result.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
+        <div class="phone"><img src="/img/08b-result-fixes.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
+        <div class="phone"><img src="/img/26-say-it-again-compare.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
+        <div class="phone"><img src="/img/02-today-plan.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
+        <div class="phone"><img src="/img/25-pack-review-missed.webp" width="560" height="1068" alt="" loading="lazy" decoding="async"></div>
       </div>
       <div>
         <article class="step" data-step="0">
-          <p class="eyebrow">Part 1</p>
+          <p class="kicker voice">Part 1</p>
           <h3>Alex asks, you answer out loud</h3>
-          <p>The examiner asks about familiar topics, listens to the end of your answer and moves on as an examiner would. The clock runs to the exam's timing, so you get used to answering at length without notes.</p>
+          <p class="said">&ldquo;What is the weather usually like where you live?&rdquo;</p>
+          <p>The examiner asks about familiar topics, listens to the end of your answer and moves on as an examiner would. The clock runs to the exam&rsquo;s timing, so you get used to answering at length without notes.</p>
           <ul class="chips"><li>Part 1, about 4 min</li><li>Live voice</li><li>No typing</li></ul>
-          <div class="phone"><img src="img/22-examiner-speaking.webp" width="560" height="1068" alt="The exam room: Alex asks a Part 1 question" loading="lazy" decoding="async"></div>
+          <div class="phone"><img src="/img/22-examiner-speaking.webp" width="560" height="1068" alt="The exam room: Alex asks a Part 1 question" loading="lazy" decoding="async"></div>
         </article>
         <article class="step" data-step="1">
-          <p class="eyebrow">Part 2</p>
+          <p class="kicker voice">Part 2</p>
           <h3>The task card, one minute to prepare</h3>
+          <p class="said">&ldquo;Describe a story you read that you later discussed with someone.&rdquo;</p>
           <p>You get a task card with the points to cover, one minute to plan, then up to two minutes to speak. Alex stops you at two minutes and asks a rounding-off question, as on the day.</p>
           <ul class="chips"><li>1 min to prepare</li><li>2 min to speak</li></ul>
-          <div class="phone"><img src="img/24-part2-task-card-prep.webp" width="560" height="1068" alt="A Part 2 task card with the one-minute preparation clock" loading="lazy" decoding="async"></div>
+          <div class="phone"><img src="/img/24b-part2-task-card-bullets.webp" width="560" height="1068" alt="A Part 2 task card with the points to cover and the preparation clock" loading="lazy" decoding="async"></div>
         </article>
         <article class="step" data-step="2" id="report">
-          <p class="eyebrow">Your report</p>
+          <p class="kicker">Your report</p>
           <h3>An estimated band for each criterion</h3>
           <p>After Part 3 you see an estimated overall band and one for each of the four criteria: Fluency and coherence, Lexical resource, Grammatical range and accuracy, and Pronunciation. Each one points to the words you said.</p>
           <p class="note">AI practice estimate. Not an official IELTS result.</p>
-          <div class="phone"><img src="img/08-result.webp" width="560" height="1068" alt="The report: estimated overall band 6.5 with a band for each criterion" loading="lazy" decoding="async"></div>
+          <div class="phone"><img src="/img/08-result.webp" width="560" height="1068" alt="The report: estimated overall band 6.5 with a band for each criterion" loading="lazy" decoding="async"></div>
         </article>
         <article class="step" data-step="3">
-          <p class="eyebrow">Fixes</p>
+          <p class="kicker">Fixes</p>
           <h3>Feedback that quotes your own words</h3>
           <p>Each fix shows your line, a better version and one reason in plain English. You can play back your answer to hear where it went wrong.</p>
-          <div class="phone"><img src="img/08b-result-fixes.webp" width="560" height="1068" alt="Fixes: the learner's sentence beside an improved version" loading="lazy" decoding="async"></div>
+          <div class="phone"><img src="/img/08b-result-fixes.webp" width="560" height="1068" alt="Fixes: the learner's sentence beside an improved version" loading="lazy" decoding="async"></div>
         </article>
         <article class="step" data-step="4" id="say-it-again">
-          <p class="eyebrow">Say it again</p>
+          <p class="kicker voice">Say it again</p>
           <h3>Say the better line, then compare</h3>
           <p>Tap Say it again, answer the same question with the better line, and see what changed between your first answer and the new one. Reading a correction is a start; saying it is what makes it stick.</p>
-          <div class="phone"><img src="img/09-say-it-again.webp" width="560" height="1068" alt="Say it again: the question, the original answer and the line to say" loading="lazy" decoding="async"></div>
+          <div class="phone"><img src="/img/26-say-it-again-compare.webp" width="560" height="1068" alt="Say it again: the original answer and the retry, with what changed" loading="lazy" decoding="async"></div>
         </article>
         <article class="step" data-step="5" id="plan">
-          <p class="eyebrow">Today</p>
+          <p class="kicker">Today</p>
           <h3>A plan for your next practice</h3>
           <p>Set your target band and test date. Today shows one task, picked from your recent estimates, with the time it takes and the reason for it.</p>
-          <div class="phone"><img src="img/02-today-plan.webp" width="560" height="1068" alt="Today: the latest estimate against the target band" loading="lazy" decoding="async"></div>
+          <div class="phone"><img src="/img/02-today-plan.webp" width="560" height="1068" alt="Today: the latest estimate against the target band" loading="lazy" decoding="async"></div>
         </article>
         <article class="step" data-step="6">
-          <p class="eyebrow">Practice packs</p>
-          <h3>Words and grammar you can use in your next answer</h3>
+          <p class="kicker">Practice packs</p>
+          <h3>Words and grammar for your next answer</h3>
           <p>Short packs cover vocabulary in sentences, grammar and Part 1 answer plans. Read why each answer is right, then go back to the questions you missed.</p>
-          <div class="phone"><img src="img/05-pack-result.webp" width="560" height="1068" alt="A finished practice pack with the questions to review" loading="lazy" decoding="async"></div>
+          <div class="phone"><img src="/img/25-pack-review-missed.webp" width="560" height="1068" alt="A finished practice pack with the questions to review" loading="lazy" decoding="async"></div>
         </article>
       </div>
     </div>
   </div>
 </section>
+
+<section class="quiz" aria-labelledby="quiz-title" data-quiz>
+  <div class="wrap narrow">
+    <h2 id="quiz-title">Which answer is the Band 7?</h2>
+    <p class="lede">Two answers to the same Part 1 question, written for this page. Tap the one you think the public descriptors rate higher.</p>
+    <p class="said">&ldquo;Do you prefer planning a trip carefully or making decisions as you go?&rdquo;</p>
+    <div class="answers">
+      <button class="answer" type="button" data-answer="a" aria-pressed="false"><span class="tag">Answer A</span>I prefer plan carefully because I don&rsquo;t like surprise. When I was go to Italy last year I booked all the hotels and the trains before, so I was feel relax. But my friend is different, he like to decide in the moment.</button>
+      <button class="answer" type="button" data-answer="b" aria-pressed="false"><span class="tag">Answer B</span>I&rsquo;d say I&rsquo;m a planner, mostly because I don&rsquo;t enjoy surprises when I&rsquo;m away. When I went to Italy last year I&rsquo;d booked every hotel and train in advance, which meant I could actually relax. My friend&rsquo;s the opposite, though. He&rsquo;d rather decide on the day.</button>
+    </div>
+    <div class="verdict" hidden aria-live="polite">
+      <p class="lead"></p>
+      <div class="fix">
+        <p class="before">When I <mark>was go</mark> to Italy last year</p>
+        <p class="after">When I <mark>went</mark> to Italy last year</p>
+        <p class="why">One past tense is enough. Grammatical range and accuracy.</p>
+      </div>
+      <div class="fix">
+        <p class="before">so I <mark>was feel relax</mark></p>
+        <p class="after">which meant I <mark>could actually relax</mark></p>
+        <p class="why">A result clause joins the two ideas and keeps the tense. Fluency and coherence.</p>
+      </div>
+      <div class="fix">
+        <p class="before">he <mark>like to decide in the moment</mark></p>
+        <p class="after">he&rsquo;d rather <mark>decide on the day</mark></p>
+        <p class="why">Subject and verb agree, and a natural phrase replaces a literal one. Lexical resource.</p>
+      </div>
+    </div>
+    <p class="note">In the app the fixes quote your own answers, with a Say it again button under each.</p>
+  </div>
+</section>
+
 <section id="pricing" class="on-navy" aria-labelledby="price-title">
   <div class="wrap">
-    <p class="eyebrow">Pricing</p>
     <h2 id="price-title">Start free. Pay for practice, not for screens.</h2>
-    <p class="lede">Every new account gets 17 credits, enough for one full mock test and its report. After that, 2 free credits arrive every Monday for a quick drill. The report, the fixes and the recording of each test you take are included in its credits.</p>
-    <div class="cards">
-      <div class="card rise">
+    <p class="lede">Every new account gets 17 credits, enough for one full mock test and its report. After that, 2 free credits arrive every Monday for a quick drill. The report, the fixes and the recording of each test are included in its credits.</p>
+    <div class="plans">
+      <div class="plan">
+        <h3>Free to start</h3>
+        <p class="note">No account or card needed.</p>
+        <ul>
+          <li>17 welcome credits: one full mock test with its report</li>
+          <li>2 credits every Monday: a quick drill of three Part 1 questions</li>
+          <li>Every guide on this site</li>
+        </ul>
+      </div>
+      <div class="plan plus">
+        <h3>BandNine Plus</h3>
+        <p class="note">For the weeks before the test.</p>
+        <p class="price">$12.99 <span>a month, 150 credits</span></p>
+        <p class="price">$4.99 <span>a week, 40 credits</span></p>
+        <ul>
+          <li>Credits kept if unused while Plus runs</li>
+          <li>Say it again at no credit cost, up to 10 a day</li>
+          <li>Your full archive of past tests</li>
+          <li>A plan built around your test date</li>
+        </ul>
+      </div>
+      <div class="plan">
         <h3>Credit packs</h3>
         <p class="note">Credits never expire.</p>
         <table>
@@ -135,27 +198,8 @@
           </tbody>
         </table>
       </div>
-      <div class="card feature rise">
-        <h3>Plus monthly</h3>
-        <p class="price">$12.99 <span>a month</span></p>
-        <ul>
-          <li>150 credits a month, kept if unused</li>
-          <li>Say it again at no credit cost, up to 10 a day</li>
-          <li>Your full archive of past tests</li>
-          <li>A plan built around your test date</li>
-        </ul>
-      </div>
-      <div class="card rise">
-        <h3>Plus weekly</h3>
-        <p class="price">$4.99 <span>a week</span></p>
-        <ul>
-          <li>40 credits a week, kept if unused</li>
-          <li>The same Plus features as monthly</li>
-          <li>For the last week or two before the test</li>
-        </ul>
-      </div>
     </div>
-    <div class="card rise" style="margin-top:16px">
+    <div class="costs">
       <h3>What each practice costs</h3>
       <table>
         <thead><tr><th scope="col">Practice</th><th scope="col" class="n">Credits</th></tr></thead>
@@ -169,12 +213,28 @@
         </tbody>
       </table>
     </div>
-    <p class="note" style="margin-top:16px">Prices are in US dollars; the App Store and Google Play show the price in your currency before you buy. Plus renews until you cancel it in your store account. If a test fails because of a fault on our side, its credits go back to your balance.</p>
+    <p class="note" style="margin-top:20px">Prices are in US dollars; the App Store and Google Play show the price in your currency before you buy. Plus renews until you cancel it in your store account. If a test fails because of a fault on our side, its credits go back to your balance.</p>
   </div>
 </section>
+
+<section id="guides" aria-labelledby="guides-title">
+  <div class="wrap narrow">
+    <h2 id="guides-title">Guides from the Speaking classroom</h2>
+    <p class="lede">Short, practical notes on the test, written the way a teacher explains them in class.</p>
+    <!-- site:guides -->
+<ul class="guides">
+<li><p class="kicker">Criteria</p><a href="/blog/ielts-fluency-and-coherence">IELTS fluency and coherence: keep your answers connected</a><p>Practise a steady pace, clear connections and brief repairs with recording drills that show why your answers pause or lose their thread.</p><span class="meta">7 min read</span></li>
+<li><p class="kicker">Criteria</p><a href="/blog/ielts-pronunciation">IELTS pronunciation: what the examiner listens for</a><p>Practise word stress, sentence stress and pausing with spoken examples and a daily 10-minute drill focused on being understood.</p><span class="meta">6 min read</span></li>
+<li><p class="kicker">Bands</p><a href="/blog/ielts-speaking-band-7">IELTS Speaking Band 7: what to listen for and practise</a><p>Understand Band 7 across the four Speaking criteria, identify a recurring difficulty and test your progress with a two-week recording routine.</p><span class="meta">6 min read</span></li>
+<li><p class="kicker">Bands</p><a href="/blog/ielts-speaking-band-descriptors">How the IELTS Speaking band descriptors work</a><p>The four IELTS Speaking criteria in plain English, what separates Band 6 from Band 7 in each, and which one to practise first.</p><span class="meta">7 min read</span></li>
+</ul>
+<!-- /site:guides -->
+    <p style="margin-top:20px"><a href="/blog/">All guides</a></p>
+  </div>
+</section>
+
 <section id="faq" aria-labelledby="faq-title">
   <div class="wrap narrow">
-    <p class="eyebrow">Questions</p>
     <h2 id="faq-title">Before you start</h2>
     <details><summary>Is BandNine an official IELTS test?</summary><p>No. BandNine is a practice app. Every band it shows is an AI practice estimate, not an official IELTS result. Only the test you take at an IELTS centre gives you a band you can use.</p></details>
     <details><summary>Who is Alex?</summary><p>Alex is the examiner in the app: an AI voice that runs the Speaking test in the same order as the real one. No person listens to your answers while you speak.</p></details>
@@ -183,9 +243,10 @@
     <details><summary>What does it cost?</summary><p>The app is free to download and every new account gets 17 credits, enough for one full mock test with its report. After that you get 2 free credits every Monday. More practice uses credit packs or BandNine Plus, weekly or monthly. The cost of each test is shown before you start.</p></details>
     <details><summary>What happens if the connection drops during a test?</summary><p>If a test fails because of a fault on our side, the credits for it go back to your balance. If you leave early, you pay only for the parts you started, and the app shows that amount before you leave.</p></details>
     <details><summary>Do I need an account?</summary><p>The app creates an anonymous account the first time you open it, so you can start without an email address. Link Apple or Google if you want to keep your history on a new phone.</p></details>
-    <details><summary>How do I delete my data?</summary><p>Open the You tab and tap Delete account. Your recordings, transcripts, band estimates and account are removed straight away. The <a href="./delete-account">delete-account page</a> explains how to ask by email instead.</p></details>
+    <details><summary>How do I delete my data?</summary><p>Open the You tab and tap Delete account. Your recordings, transcripts, band estimates and account are removed straight away. The <a href="/delete-account">delete-account page</a> explains how to ask by email instead.</p></details>
   </div>
 </section>
+
 <section class="on-navy" aria-labelledby="cta-title">
   <div class="wrap narrow">
     <h2 id="cta-title">Your first full mock test is included.</h2>
@@ -197,11 +258,15 @@
   </div>
 </section>
 </main>
+<!-- site:footer -->
 <footer><div class="wrap">
-<nav aria-label="Footer"><a href="./">Home</a><a href="./blog/">Guides</a><a href="./support">Support</a><a href="./privacy">Privacy policy</a><a href="./terms">Terms of use</a><a href="./delete-account">Delete your account</a><a href="mailto:hello@bandnine.org">hello@bandnine.org</a></nav>
+<a class="brand" href="/"><img src="/img/icon-192.webp" width="32" height="32" alt="">BandNine</a>
+<nav aria-label="Footer"><a href="/">Home</a><a href="/blog/">Guides</a><a href="/support">Support</a><a href="/privacy">Privacy policy</a><a href="/terms">Terms of use</a><a href="/delete-account">Delete your account</a><a href="mailto:hello@bandnine.org">hello@bandnine.org</a></nav>
 <p>Bands shown in BandNine are AI practice estimates, not official IELTS results.</p>
 <p>IELTS is a registered trade mark of the British Council, IDP IELTS and Cambridge University Press &amp; Assessment. BandNine is independent and is not affiliated with or endorsed by these organisations.</p>
 </div></footer>
-<script src="./assets/site.js" defer></script>
+<!-- /site:footer -->
+<script src="/assets/mark-shapes.js" defer></script>
+<script src="/assets/site.js" defer></script>
 </body>
 </html>
