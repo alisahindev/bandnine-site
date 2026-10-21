@@ -64,8 +64,13 @@ p { margin: 0 0 16px; }
 .top nav a.get:hover { background: var(--navy-3); }
 @media (max-width: 640px) { .top nav .opt { display: none; } }
 
-/* Store badges. Replace with the official App Store and Google Play badge art at launch. */
-.badges { display: flex; flex-wrap: wrap; gap: 12px; margin: 28px 0 10px; }
+/* Store badges: the official artwork. Google's PNG carries its own padding, so it is taller to match Apple's visible height. */
+.store { display: inline-block; line-height: 0; transition: transform .12s var(--enter); }
+.store:active { transform: scale(.98); }
+.store img { height: 54px; width: auto; }
+.store[data-store="android"] img { height: 66px; margin: -6px -8px; }
+/* Text badge, used where the stores are not the destination (the guides' closing card). */
+.badges { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; margin: 28px 0 10px; }
 .badge { display: inline-flex; align-items: center; gap: 10px; min-height: 54px; padding: 8px 20px; border-radius: 14px; background: var(--ink); color: var(--paper); text-decoration: none; line-height: 1.15; transition: transform .12s var(--enter); }
 .badge:active { transform: scale(.98); }
 .badge small { display: block; font-size: 12px; opacity: .85; }
