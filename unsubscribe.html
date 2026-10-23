@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Unsubscribe · BandNine</title>
+<meta name="description" content="Stop BandNine's progress emails.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0b1f3a">
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+<link rel="stylesheet" href="/assets/site.css">
+<script>document.documentElement.className='js'</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<!-- site:header -->
+<header class="top"><div class="wrap">
+<a class="brand" href="/"><img src="/img/icon-192.webp" width="32" height="32" alt="">BandNine</a>
+<nav aria-label="Main"><a class="opt" href="/#examiner">How it works</a><a href="/blog/">Guides</a><a class="opt" href="/#pricing">Pricing</a><a class="opt" href="/support">Support</a><a class="get" href="/#download">Get the app</a></nav>
+</div></header>
+<!-- /site:header -->
+<main id="main">
+<div class="wrap narrow prose">
+<!-- The progress emails' Unsubscribe link lands here with the email's id (?t=), and only the button posts it to
+     supabase/functions/email-link, so a mail scanner that opens the link unsubscribes nobody. -->
+<div id="ask">
+<h1>Stop progress emails?</h1>
+<p class="lead">You will stop getting the Sunday summary, the notes after a break from practice and the emails around your test date. Your account, your practice and the reminders in the app stay as they are.</p>
+<p><button type="button" class="badge" id="go">Stop progress emails</button></p>
+<p id="none" hidden>This page opens from the Unsubscribe link in one of our emails. Tap it there, or write to <a href="mailto:hello@bandnine.org">hello@bandnine.org</a>.</p>
+<p id="err" hidden>That did not go through. Try again in a minute, or write to <a href="mailto:hello@bandnine.org">hello@bandnine.org</a>.</p>
+</div>
+<div id="done" hidden>
+<h1>Progress emails are off</h1>
+<p class="lead">You will not get progress emails from BandNine any more. Emails about your account, such as a password reset, still arrive.</p>
+<p>To turn them back on, write to <a href="mailto:hello@bandnine.org">hello@bandnine.org</a>.</p>
+</div>
+<script>
+{
+  const t = new URLSearchParams(location.search).get('t'), go = document.getElementById('go'), show = (id) => { document.getElementById(id).hidden = false; };
+  if (!t) { go.hidden = true; show('none'); }
+  go.addEventListener('click', async () => {
+    go.disabled = true;
+    try {
+      const r = await fetch('https://xofvxzukpeabmytadhun.supabase.co/functions/v1/email-link?t=' + encodeURIComponent(t), { method: 'POST' });
+      if (!r.ok) throw new Error(String(r.status));
+      document.getElementById('ask').hidden = true;
+      show('done');
+    } catch {
+      go.disabled = false;
+      show('err');
+    }
+  });
+}
+</script>
+</div>
+</main>
+<!-- site:footer -->
+<footer><div class="wrap">
+<a class="brand" href="/"><img src="/img/icon-192.webp" width="32" height="32" alt="">BandNine</a>
+<nav aria-label="Footer"><a href="/">Home</a><a href="/blog/">Guides</a><a href="/support">Support</a><a href="/privacy">Privacy policy</a><a href="/terms">Terms of use</a><a href="/delete-account">Delete your account</a><a href="mailto:hello@bandnine.org">hello@bandnine.org</a></nav>
+<p>Bands shown in BandNine are AI practice estimates, not official IELTS results.</p>
+<p>IELTS is a registered trade mark of the British Council, IDP IELTS and Cambridge University Press &amp; Assessment. BandNine is independent and is not affiliated with or endorsed by these organisations.</p>
+</div></footer>
+<!-- /site:footer -->
+</body>
+</html>

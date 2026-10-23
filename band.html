@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Your Speaking band · BandNine</title>
+<meta name="description" content="Tell BandNine your official IELTS Speaking band.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#0b1f3a">
+<link rel="icon" href="/favicon.png" type="image/png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&display=swap">
+<link rel="stylesheet" href="/assets/site.css">
+<script>document.documentElement.className='js'</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<!-- site:header -->
+<header class="top"><div class="wrap">
+<a class="brand" href="/"><img src="/img/icon-192.webp" width="32" height="32" alt="">BandNine</a>
+<nav aria-label="Main"><a class="opt" href="/#examiner">How it works</a><a href="/blog/">Guides</a><a class="opt" href="/#pricing">Pricing</a><a class="opt" href="/support">Support</a><a class="get" href="/#download">Get the app</a></nav>
+</div></header>
+<!-- /site:header -->
+<main id="main">
+<div class="wrap narrow prose">
+<!-- The after-test email's button lands here with the email's id (?t=); the form posts the band to
+     supabase/functions/email-link (save_exam_band), which keeps it next to the app's last estimate. -->
+<div id="ask">
+<h1>Your official Speaking band</h1>
+<p class="lead">Tell us the Speaking band on your test report. We compare it with BandNine's estimates to see how close they were.</p>
+<form id="form">
+<p><label for="band">Speaking band</label><br>
+<select id="band" required>
+<option value="">Choose a band</option>
+<option value="9.0">Band 9.0</option>
+<option value="8.5">Band 8.5</option>
+<option value="8.0">Band 8.0</option>
+<option value="7.5">Band 7.5</option>
+<option value="7.0">Band 7.0</option>
+<option value="6.5">Band 6.5</option>
+<option value="6.0">Band 6.0</option>
+<option value="5.5">Band 5.5</option>
+<option value="5.0">Band 5.0</option>
+<option value="4.5">Band 4.5</option>
+<option value="4.0">Band 4.0</option>
+<option value="3.5">Band 3.5</option>
+<option value="3.0">Band 3.0</option>
+<option value="2.5">Band 2.5</option>
+<option value="2.0">Band 2.0</option>
+<option value="1.5">Band 1.5</option>
+<option value="1.0">Band 1.0</option>
+</select></p>
+<p><button type="submit" class="badge" id="go">Save my band</button></p>
+</form>
+<p id="none" hidden>This page opens from the button in our email after your test. Tap it there, or write your band to <a href="mailto:hello@bandnine.org">hello@bandnine.org</a>.</p>
+<p id="err" hidden>That did not go through. Try again in a minute, or write your band to <a href="mailto:hello@bandnine.org">hello@bandnine.org</a>.</p>
+</div>
+<div id="done" hidden>
+<h1>Your band is saved</h1>
+<p class="lead">Band <span id="saved"></span> is saved with your account.</p>
+<p>If you are taking the test again, set the new date in BandNine under You, then Target band and test date.</p>
+</div>
+<script>
+{
+  const t = new URLSearchParams(location.search).get('t'), form = document.getElementById('form'), go = document.getElementById('go'), show = (id) => { document.getElementById(id).hidden = false; };
+  if (!t) { form.hidden = true; show('none'); }
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const band = document.getElementById('band').value;
+    go.disabled = true;
+    try {
+      const r = await fetch('https://xofvxzukpeabmytadhun.supabase.co/functions/v1/email-link?a=band&t=' + encodeURIComponent(t), { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ band: Number(band) }) });
+      if (!r.ok || !(await r.json()).ok) throw new Error(String(r.status));
+      document.getElementById('saved').textContent = band;
+      document.getElementById('ask').hidden = true;
+      show('done');
+    } catch {
+      go.disabled = false;
+      show('err');
+    }
+  });
+}
+</script>
+</div>
+</main>
+<!-- site:footer -->
+<footer><div class="wrap">
+<a class="brand" href="/"><img src="/img/icon-192.webp" width="32" height="32" alt="">BandNine</a>
+<nav aria-label="Footer"><a href="/">Home</a><a href="/blog/">Guides</a><a href="/support">Support</a><a href="/privacy">Privacy policy</a><a href="/terms">Terms of use</a><a href="/delete-account">Delete your account</a><a href="mailto:hello@bandnine.org">hello@bandnine.org</a></nav>
+<p>Bands shown in BandNine are AI practice estimates, not official IELTS results.</p>
+<p>IELTS is a registered trade mark of the British Council, IDP IELTS and Cambridge University Press &amp; Assessment. BandNine is independent and is not affiliated with or endorsed by these organisations.</p>
+</div></footer>
+<!-- /site:footer -->
+</body>
+</html>

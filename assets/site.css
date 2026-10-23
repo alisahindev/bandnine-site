@@ -260,7 +260,7 @@ details p { color: var(--text); max-width: 40em; }
 }
 
 /* Prose pages: guides and legal */
-.prose { padding: 40px 0 80px; }
+.prose { padding-top: 40px; padding-bottom: 80px; }
 .prose h1 { font-size: clamp(34px, 5.2vw, 52px); margin-top: 6px; }
 .prose .meta { color: var(--muted); font-size: 15px; margin-bottom: 28px; }
 .prose p, .prose li { font: 400 18px/1.68 var(--serif); color: var(--text); }
@@ -361,3 +361,8 @@ footer p { margin: 0; max-width: 60em; }
   .marked .fix .after mark { background-size: 100% 100%; }
   details:not(.toc)::details-content { transition: none; }
 }
+
+/* Email pages (unsubscribe, band): the dark badge as a button, and the band picker */
+button.badge { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
+button.badge:disabled { opacity: .6; cursor: default; }
+.prose select { font: inherit; margin-top: 8px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); color: var(--text); }
