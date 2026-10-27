@@ -1,0 +1,599 @@
+# BandNine
+
+> BandNine is an iPhone app for IELTS Speaking practice. Alex, an AI examiner, runs a timed Speaking test aloud: Part 1 questions, a Part 2 task card with 1 min to prepare and up to 2 min to speak, and a Part 3 discussion. The app then shows an estimated band for each of the four criteria (Fluency and coherence, Lexical resource, Grammatical range and accuracy, Pronunciation), with corrections that quote the candidate's own words. AI practice estimate. Not an official IELTS result.
+
+- App Store: https://apps.apple.com/app/id6825093223 (Android is in closed testing, not on Google Play yet)
+- Website: https://bandnine.org/
+- Questions and the examiner are in English; the app needs a microphone and an internet connection.
+- BandNine is independent. IELTS is a registered trade mark of the British Council, IDP IELTS and Cambridge University Press & Assessment, and BandNine is not affiliated with or endorsed by them.
+
+---
+
+# IELTS fluency and coherence: keep your answers connected
+
+URL: https://bandnine.org/blog/ielts-fluency-and-coherence
+Published: 2026-10-21
+
+IELTS fluency and coherence is about keeping speech moving while making your ideas easy to follow. Speaking faster does not solve either problem. A quick answer can lose its thread, while a measured answer can develop clearly. Your practice should help you finish thoughts, connect them and recover when a word does not arrive.
+The examiner hears this across the Speaking test. Part 1 asks you to respond directly, Part 2 gives you a long turn, and Part 3 asks you to develop broader ideas. You need to adjust the amount of detail to the question rather than use one answer length everywhere.
+## Keep a useful pace
+At a useful pace, you have enough time to form the next phrase without stretching every sentence with empty sounds. There is no target number of words per minute in the public band descriptors. Speed alone does not tell you how fluent an answer is.
+Try describing a familiar room. First speak at your normal pace. Then repeat the description with a small pause between complete ideas. Compare how often you restart a sentence and how much effort a listener needs to follow it.
+If slowing down makes every word separate, you have gone too far. Keep words together in meaningful groups, such as beside the window or when I get home. Pause between groups where the meaning allows it, without forcing a pause after every group.
+## Find out why you hesitate
+A pause can mean you are deciding what to say. It can also mean you know the idea but cannot find the English. These are different practice problems, even though you may hear the same silence on a recording.
+After listening, stop at a long pause and ask yourself what was missing. If you had no example, practise developing reasons. If you could explain the idea in your first language but lacked an English phrase, practise paraphrasing it with words you already know.
+The descriptors do not require an absence of hesitation. Band 7 can include some searches for language, repetition or self-correction. The concern is how these affect the flow and the listener's ability to follow you. The guide to the band descriptors explains how this criterion sits alongside the other three.
+## Give each new sentence a purpose
+Coherence depends on the relationship between ideas. Before adding a sentence, consider what it does for the answer. It might explain your reason, give a relevant example or show a limit to your claim. Repeating the claim with different adjectives adds length without development.
+Compare this invented answer: I like the park because it's pleasant. It's a nice place and I enjoy it.
+A developed version gives the listener something more: I like the park because it's quiet in the morning. I can walk there before work without hearing much traffic, which helps me feel less rushed.
+The second answer stays on one reason and explains its effect. Practise adding one useful detail before searching for another reason. In Part 3, that detail can be a plausible general example; you do not need research figures to explain an opinion.
+## Connect ideas without decorating them
+A linking phrase should tell the listener how the next idea relates to the previous one. “For example” introduces an example. “Although” introduces a contrast inside a sentence. Adding either phrase without that relationship makes the answer harder to follow.
+Common connectors are useful when they fit. You do not need to replace every “and” or “but”. Extend your range by practising a function, rather than memorising a list of impressive alternatives.
+For a qualification, you might say: Working at home saves travel time. That said, it can be difficult to stop thinking about work in the evening.
+Read your transcript and circle each connector. Describe its job in a few words. If you cannot identify a job, remove it and say the answer again. Also check that your answer still addresses the question after a contrast or a long example.
+## Make references easy to follow
+Words such as “it”, “they” and “this” connect sentences without repeating a noun every time. They only help when the listener knows what they refer to. This is a quieter part of coherence that a list of linking phrases can miss.
+Consider: My cousin spoke to the manager because he was worried. The listener may not know who felt worried. You can remove the doubt: My cousin was worried, so he spoke to the manager.
+Listen for “this” at the start of a sentence. If several ideas came before it, name the one you mean: This change in working hours would help parents. Do the same when moving between people in a story. Repeating a noun sometimes improves clarity; avoiding every repetition is not the aim.
+## Repair an error and keep the sentence moving
+Self-correction can make meaning clearer, but repeated repairs can break the thread. During an answer, give priority to errors that change what you mean. If you say “Tuesday” and mean “Thursday”, correct it briefly and continue.
+We met on Tuesday, sorry, Thursday, after work.
+There is no need to restart the whole answer. If you begin a sentence that becomes too complicated, finish the idea in a shorter form: What I mean is that the cost would be too high. Use that phrase when you need to clarify, rather than adding it to every response.
+Save smaller recurring errors for practice afterwards. Repeatedly stopping to search for perfect grammar can make it harder to complete the thought. In your next attempt, work on one correction you have already identified.
+## Use drills that isolate the difficulty
+Choose a drill after listening to an answer. Each of these addresses a different obstacle, so doing all of them every day is unnecessary.
+- For unfinished ideas: answer a familiar question, then explain one reason and its effect. Stop when that thought is complete.
+- For missing words: describe an everyday object without naming it. Explain what it does and where you use it.
+- For weak connections: give an opinion, then add a contrasting case. Make clear when your opinion might not apply.
+- For repeated restarts: speak for 1 minute about a routine. Repair only slips that change the meaning, then review the recording.
+After a drill, answer a normal practice question. An isolated exercise is useful only if the habit becomes available during a conversation.
+## Check progress on a new question
+Use a 10-minute session. Spend 2 minutes recording an answer, 3 minutes finding one point where the thread breaks, and 2 minutes trying the answer again. Use the remaining 3 minutes for a different question and a short review.
+Keep the comparison specific. Did you complete the reason before starting the example? Did “they” clearly refer to one group? Did a repair stay short enough for the listener to remember the sentence? Those observations are more useful than deciding that you sounded confident.
+A smoother second attempt may reflect familiarity with the content. The new question shows whether you can use the same habit without rehearsing its words. Return to the recording a few days later and check if the pattern has changed across several answers.
+BandNine gives you Speaking practice with Alex and feedback you can use to review how your answers develop.
+
+## Questions people ask
+
+Does speaking faster improve IELTS fluency?
+Faster speech does not necessarily improve fluency. A useful pace lets you finish thoughts and connect ideas without repeated restarts. The public band descriptors do not set a words-per-minute target. Record yourself and listen for clear development rather than speed.
+
+Can I pause during IELTS Speaking?
+Yes. Pauses can help separate ideas, and some hesitation can remain at Band 7. Listen for pauses that repeatedly interrupt meaning or leave sentences unfinished. Work out whether you need more ideas or a way to express an idea with language you already know.
+
+How do I improve coherence in IELTS Speaking?
+Develop one point with a reason or relevant example, use linking phrases that match the relationship between ideas, and make references such as “it” and “they” clear. Review a recording, change one weak connection and try the same skill on a new question.
+
+---
+
+# IELTS pronunciation: what the examiner listens for
+
+URL: https://bandnine.org/blog/ielts-pronunciation
+Published: 2026-10-21
+
+IELTS pronunciation is about making your speech understandable and using your voice to carry meaning. You do not need to replace your accent. You do need to notice when a listener misses a word, loses the end of a sentence or cannot hear the difference between two ideas. A useful practice session starts with one of those problems and checks whether your next attempt is clearer.
+## What the examiner listens for
+Pronunciation is one of the four Speaking criteria. The examiner listens throughout the test, including your short answers in Part 1 and your longer explanations in Part 3. Individual sounds matter, but so do word stress, the emphasis within a sentence and the way you divide speech into meaningful groups.
+The IELTS website explains the difference between accent and intelligibility. The practical question is how much effort your listener needs to understand you. A recognisable accent can coexist with clear speech. Copying somebody else's accent will not solve a habit of swallowing the important word at the end of each sentence.
+Use the guide to the Speaking band descriptors to see where Pronunciation fits alongside the other criteria. A written answer cannot show this criterion: you need to listen to the recording.
+## Find the word a listener actually misses
+Record a short answer about a familiar activity. Ask a practice partner to listen without seeing a transcript and write down the main idea. Then ask them to identify any word they could not catch. This gives you a smaller, more useful target than asking whether your pronunciation sounds good.
+Suppose you say, I usually walk to the market, but yesterday I worked at home. If your listener hears the same verb twice, practise the difference in the phrases, not only the words on their own. Check a dictionary recording of each word, listen for the vowel and the ending, then record the complete sentence again.
+Choose words you actually need. Spending a whole session on a difficult sound that never appears in your answers can leave a more frequent problem untouched. Keep a short list of misunderstood words and cross one out only when a listener understands it in a new sentence.
+## Put stress in the right part of a word
+In a word with several syllables, one syllable usually carries the main stress. Giving every syllable equal weight can make a familiar word harder to recognise. Looking at the spelling alone will not always tell you where the stress belongs.
+Take a word from yesterday's answer, such as photography. Listen to its dictionary audio and notice that the main stress falls on the second syllable. Compare it with photograph, where the first syllable carries the main stress. Say each word in a short phrase, then use it in a personal answer.
+I started photography last winter because I wanted to take better pictures of the coast.
+Do not turn your practice list into a vocabulary collection. Four words that you can use clearly in connected speech are enough for one session. Revisit them several days later without reading the stress marks.
+## Emphasise the information that changes the meaning
+Sentence stress helps a listener hear what matters. Consider the sentence I borrowed the camera from my brother. Emphasising borrowed tells us that you did not buy it. Emphasising brother tells us who lent it to you. The grammar stays the same, but the message changes.
+Try giving the sentence in response to two different questions: did you buy the camera, and who lent it to you? Your emphasis should follow the answer the listener needs. There is no need to make every content word louder.
+In a longer response, choose the contrast before speaking. You might say, The room was small, but the windows made it feel open. Let the contrast between small and open be audible. Stress works best when you know what you want the listener to notice.
+## Pause between ideas rather than inside phrases
+A pause can make a long answer easier to follow. The useful place is usually a boundary in the meaning, such as after a reason or before a new example. Repeated pauses between an article and its noun can make the listener reconstruct the phrase.
+Write a sentence from your recording and mark possible boundaries with a slash: When I moved into the flat / I knew nobody nearby / so I started going to a local walking group. The slashes are practice marks, not an instruction to stop at every possible boundary in the test.
+Say the thought groups separately, then join them at a comfortable pace. Keep related words together. If you run out of breath, shorten the sentence rather than pushing through the final words so quickly that they disappear.
+## Use intonation to make the connection audible
+Intonation is the movement of your pitch. It helps show that an idea continues, that you are making a contrast or that you have finished. You do not need a tune for every sentence, and speaking with exaggerated pitch changes can distract from the meaning.
+Try a short list: We brought sandwiches, some fruit and a flask of tea. Keep the earlier items sounding connected, then let the final item sound complete. Next try a contrast: I expected a crowded room, but there were only a few people there. Listen for whether the second part sounds like a change in your expectation.
+These are practice choices rather than fixed rules for every speaker. Judge them by whether the meaning becomes easier to follow.
+## A daily 10-minute drill
+Use a recording you can replay, one clear model for the feature you are practising and a fresh question. Work through this sequence:
+- Spend 2 minutes listening to a short answer you recorded. Choose one unclear word or one sentence whose meaning is hard to follow.
+- Spend 2 minutes checking a dictionary recording or a short spoken model. Listen for the particular feature you selected.
+- Spend 3 minutes saying the phrase and then the whole sentence. Record one attempt without speaking over the model.
+- Spend 3 minutes answering a different question that lets you use the same feature. Listen without reading your notes.
+The last step matters. Repeating a model shows that you can imitate it; using the feature while choosing your own words shows whether it is becoming available in conversation.
+## Review the sound, not only the transcript
+A transcript can help you locate a sentence, but it cannot show whether its stress or rhythm made the meaning clear. Speech recognition may also guess a word from context. A correct transcription is therefore not enough evidence that the word was clear.
+Compare two short recordings with the same listening question: can someone hear the key word on the first attempt? Keep the comparison narrow. Once that feature is more dependable, move to another and return to the first in a later answer.
+BandNine lets you practise spoken answers with Alex, its live AI examiner, and review pronunciation feedback after a mock test.
+
+## Questions people ask
+
+Do I need a British accent for IELTS Speaking?
+No. Any accent is acceptable when your speech is understandable. Focus on the sounds, stress and rhythm that help a listener follow your meaning.
+
+How can I practise IELTS pronunciation every day?
+Use a 10-minute routine: identify one unclear phrase, listen to a model, record the phrase in a sentence, then answer a new question using the same feature.
+
+Can I check my pronunciation from a transcript?
+A transcript can locate words but cannot show how stress, pauses or intonation carry meaning. Listen to the recording and, when possible, ask someone to identify words they could not hear clearly.
+
+---
+
+# IELTS Speaking Band 7: what to listen for and practise
+
+URL: https://bandnine.org/blog/ielts-speaking-band-7
+Published: 2026-10-21
+
+IELTS Speaking Band 7 describes how you use English across a whole conversation. It does not require a particular accent or a collection of difficult words. You need enough control to develop your answers, handle unfamiliar questions and make your meaning clear. The useful study question is which of those habits stays reliable when you cannot prepare the answer.
+A short example can show a useful phrase or sentence pattern. It cannot prove a band, because the examiner also hears your delivery and how your language holds up across the Speaking test.
+## Start with the four criteria
+The examiner considers Fluency and coherence, Lexical resource, Grammatical range and accuracy, and Pronunciation. Each has equal weight. You cannot replace control of basic grammar with ambitious vocabulary, or replace clear development with a fast speaking pace.
+Read the guide to the Speaking band descriptors for the wider comparison between bands. Here, the task is to turn the Band 7 descriptions into things you can hear and practise. Use the public band descriptors alongside your recordings, and look for patterns rather than judging every sentence separately.
+## Keep developing an answer
+For Fluency and coherence, Band 7 includes speaking at length without noticeable effort or losing the thread. Some hesitation, repetition and self-correction can remain. That includes occasional searches for language. It does not mean that every pause must be about choosing an idea.
+Listen for what happens after your first point. If the question is about why people enjoy cooking, can you explain a reason instead of repeating that cooking is enjoyable?
+I think cooking gives people a break from work. My brother spends most of his day at a screen, so making dinner gives him something practical to concentrate on.
+The example develops one reason with a relevant situation. You do not need to move through several reasons if none gets explained.
+## Choose vocabulary that fits the meaning
+Lexical resource at Band 7 involves flexible vocabulary across different topics, some less common or idiomatic language, and awareness of word combinations. Occasional unsuitable choices can remain. Successful paraphrasing also matters when a word does not come.
+Practise phrases with their surroundings. Learning “a demanding job” helps more than learning “demanding” without knowing what it describes. Then use the phrase to explain something: It's a demanding job because you have to make decisions while people are waiting.
+When a word is missing, describe its function. I mean the person who checks your ticket before you get on the train. Keep the conversation moving without apologising for the gap. Afterwards, look up the word and use it in a different sentence.
+## Use complex grammar where it belongs
+Grammatical range and accuracy at Band 7 includes complex structures used with some flexibility. Many sentences contain no mistakes, although errors remain. Long sentences are not the aim. The relationship between your ideas should give you a reason to use a particular structure.
+A conditional suits a possible change: If buses ran later, more people would use them after work. A relative clause adds useful detail: The shop where I bought it has closed now.
+Check repeated errors before adding more structures. If past events repeatedly become present tense in your answers, practise telling a short event with a clear time reference. Then answer a new question about another event. Correcting a written transcript is only the first step; you need to use the correction while speaking.
+## Make pronunciation serve the listener
+The Band 7 pronunciation description draws on the bands around it: it includes the positive features of Band 6 and some features of Band 8. Do not turn that into a rule that you need a particular accent. Work on how consistently the listener can follow your meaning.
+Record a sentence containing a contrast, such as I used to buy lunch, but now I bring it from home. Listen for emphasis on the words that carry the change. Pause between complete ideas rather than separating a noun from the words that describe it.
+If a listener misses a word, check both its sounds and its stress. A carefully pronounced word can still be hard to recognise when the stressed syllable is misplaced.
+## Investigate a Band 6.5 without inventing a descriptor
+The public scale gives descriptions at whole bands. There is no separate Band 6.5 description that lists a fixed set of missing skills. Two candidates with the same overall band can have different strengths across the four criteria.
+Begin with any criterion feedback you have. If you only know an overall band, record a full practice conversation and examine all four criteria. A repeated grammar error may be obvious on paper, while unclear word stress will only appear when you listen.
+Write a narrow target supported by an example. “Keep the past tense when describing a visit” gives you something to practise. “Sound like Band 7” does not. Pick the problem that repeatedly interrupts meaning or limits your answers, rather than the most interesting new phrase to learn.
+## Use two weeks to test one change
+This is a practice cycle, not a promise about when your band will change. Allow about 20 minutes on drill days and up to 45 minutes for a full mock with review. Keep your first recording for comparison.
+- On day one, record a full mock. Listen twice, first for the conversation and then for one recurring difficulty.
+- On days two to four, practise that difficulty with short answers. If it is past tense, describe a different past event each day.
+- On days five and six, use the same skill in Part 2 and Part 3. Check that longer answers do not bring the old problem back.
+- On day seven, answer unfamiliar questions without notes. Compare the target behaviour with your first recording.
+- On days eight to twelve, keep the target if it remains unstable. If it holds across new questions, choose the next recurring difficulty.
+- On day thirteen, take another full mock. On day fourteen, compare the recordings and decide what needs another practice cycle.
+## Listen for transfer, not a polished second attempt
+A repeated answer often sounds better because you already know its content. That improvement is useful, but it does not show whether the skill transfers. After a retry, leave the topic and answer a different question that needs the same language.
+Keep a short record with the question, a timestamp and the behaviour you heard. For example: “At forty seconds, I changed to present tense while describing yesterday.” Check the same behaviour in the next recording. Avoid counting every pause or error as if each carried a fixed deduction.
+When your own judgement is uncertain, ask a teacher to compare your recordings with the public band descriptors. Use the recording to show the pattern you want help with, rather than asking them to judge an isolated sentence.
+BandNine lets you practise a Speaking test with Alex and review feedback on your answers across the four criteria.
+
+## Questions people ask
+
+What does IELTS Speaking Band 7 require?
+Band 7 involves sustained, connected speech, flexible vocabulary and complex grammar with many correct sentences. Pronunciation also needs consistent clarity and control. The examiner considers four equally weighted criteria across the whole Speaking test; no single phrase or answer proves a band.
+
+Can I make mistakes and get Band 7 in Speaking?
+The Band 7 descriptions allow some hesitation and self-correction, as well as errors in grammar and vocabulary. What matters is the pattern across the conversation. Aim for language that stays clear and flexible rather than stopping to repair every small slip.
+
+How can I move from Band 6.5 to Band 7 in Speaking?
+Start with criterion feedback rather than assuming every Band 6.5 candidate has the same gap. Record a full mock, identify a recurring difficulty and practise it across new questions. Recheck that behaviour in another recording. The time needed depends on the difficulty and your current control.
+
+---
+
+# How the IELTS Speaking band descriptors work
+
+URL: https://bandnine.org/blog/ielts-speaking-band-descriptors
+Published: 2026-10-21
+
+Your Speaking band is not a feeling the examiner has about your English. It comes from a published scale, the Speaking band descriptors, which describes performance at each band from 0 to 9 under four criteria. This guide explains how the scale is used, what the four criteria mean in practice, and what usually separates Band 6 from Band 7.
+## Four criteria, equal weight
+The examiner rates you on four criteria:
+- Fluency and coherence: how easily you keep going, and how clearly your ideas connect.
+- Lexical resource: the range and precision of your vocabulary.
+- Grammatical range and accuracy: the variety of structures you use, and how often they are correct.
+- Pronunciation: how easy you are to understand, and how well you use features such as stress, rhythm and intonation.
+The four carry equal weight. The examiner gives a band for each one, and your Speaking band is worked out from all four, reported as a whole or half band. A very strong Lexical resource cannot fully make up for weak Grammatical range and accuracy, and the reverse is also true. That is the first useful thing to know: your weakest criterion holds your overall band down more than your strongest one lifts it.
+## The test is marked as a whole
+The examiner does not give a separate band for Part 1, Part 2 and Part 3. They listen across the whole test, roughly eleven to fourteen minutes, and decide which band description fits your performance best for each criterion.
+So a weak start is not fatal, and a strong Part 1 is not enough. Many candidates who sound comfortable in Part 1 find that their grammar and vocabulary narrow in Part 3, when the questions move from "Do you like reading?" to "Why do some people stop reading for pleasure as adults?" Practise Part 3 at least as much as Part 1.
+## Fluency and coherence
+This criterion asks two questions: can you speak at length without long pauses, and do your ideas follow on from each other?
+At Band 6, a candidate is willing to speak at length but sometimes loses coherence through repetition, self-correction or hesitation, and uses linking words in a way that is not always appropriate. At Band 7, the candidate speaks at length without noticeable effort, and when they hesitate it is usually to find the right idea or word, not to rescue a sentence. Linking is flexible: not only "and", "but", "because", but "what I mean is", "that said", "the main reason is".
+The common misunderstanding is that fluency means speed. It does not. A calm pace with clear connections between ideas is more fluent, in the descriptors' sense, than fast speech that keeps restarting.
+## Lexical resource
+This is about whether you have the words for the topic and use them precisely. At Band 6, vocabulary is wide enough to discuss topics at length and make the meaning clear, even when some choices are not quite right. At Band 7, vocabulary is used flexibly across a variety of topics, including some less common and idiomatic items, with awareness of style and collocation. Both bands expect you to paraphrase: to find another way to say something when the exact word does not come.
+Collocation is where Band 6 and Band 7 most often differ. "Make a decision", "a heavy workload", "keep in touch" are not rare words, but using them naturally shows control. A candidate who reaches for rare words and gets the collocation wrong usually does worse than one who uses common words in the right combinations.
+## Grammatical range and accuracy
+Range and accuracy are judged together. At Band 6, a candidate uses a mix of simple and complex structures, with limited flexibility, and makes frequent mistakes with complex structures, though these rarely make the meaning unclear. At Band 7, a range of complex structures is used with some flexibility, and error-free sentences are frequent, though some errors remain.
+Two habits move people from 6 to 7. The first is using complex structures where they belong naturally: a relative clause to add detail, a conditional to speculate in Part 3, the present perfect to connect past and present. The second is accuracy in the basics that occur in almost every sentence: verb tenses, articles, plural endings, subject-verb agreement. A small error repeated twenty times in a test is heard twenty times.
+## Pronunciation
+Pronunciation is not about sounding British, American or anything else. A noticeable accent from your first language is not a problem in itself. What the descriptors measure is how easily the listener understands you and how well you use the features of spoken English: word stress, sentence stress, rhythm, intonation and how words join together.
+At Band 6, the candidate uses a range of these features with mixed control and can generally be understood, though some words or sounds are mispronounced and reduce clarity at times. Higher bands describe speech that is easy to follow throughout, where stress and intonation help carry the meaning. In practice, the fastest gains usually come from word stress on common long words and from pausing at the end of an idea rather than in the middle of one.
+## Reading the descriptors as a learner
+The descriptors were written for trained examiners, so a few habits help when you read them yourself:
+- Read two bands side by side. Compare your current band and the one above it, criterion by criterion. The differences in wording are your study plan.
+- Notice the qualifiers. Words like "some", "frequent", "generally" and "at times" carry the meaning. Band 6 and Band 7 often describe the same skill and differ in how consistently it appears.
+## Which criterion to practise first
+Start with the lowest of your four. If you do not know which that is, record yourself answering three Part 3 questions and check the transcript for the same error appearing more than twice. Repeated errors in tense or articles point to Grammatical range and accuracy; long pauses and restarts point to Fluency and coherence; the same few adjectives used for everything point to Lexical resource.
+Then work on that one criterion for a week, in short daily sessions, and check again. Spreading effort evenly across all four feels thorough, but because the criteria are equally weighted, lifting the weakest one is usually the quickest way to lift the overall band.
+BandNine's report follows the same four criteria. After a mock test it gives an estimated band for each, quotes the words from your answers that support it, and says so when there is not enough evidence to estimate one. These are AI practice estimates, not official IELTS results, and the only band that counts is the one from your test centre. Read the official public band descriptors on the IELTS website alongside any practice tool you use.
+
+## Questions people ask
+
+Are the four IELTS Speaking criteria weighted equally?
+Yes. Fluency and coherence, Lexical resource, Grammatical range and accuracy, and Pronunciation each get a band, and the Speaking band is worked out from all four, reported as a whole or half band.
+
+Does my accent lower my IELTS Speaking band?
+No. The descriptors measure how easily the listener understands you and how you use stress, rhythm and intonation. A noticeable first-language accent is not a problem in itself.
+
+---
+
+# IELTS Speaking Part 1: question types and how to answer
+
+URL: https://bandnine.org/blog/ielts-speaking-part-1-questions
+Published: 2026-10-21
+
+IELTS Speaking Part 1 asks you about familiar aspects of your life. The vocabulary may be everyday English, but the questions still need attention. You might be asked about a present habit, a childhood memory or something you would like to change. A useful answer responds to that particular question and adds enough detail to make your meaning clear.
+The examples below are invented candidate answers. Use them to notice how an answer develops, then choose details from your own life. Learning someone else's sentences makes it harder to respond when the wording changes.
+## Know what familiar topics ask you to do
+Home, work and study are useful starting points for practice. You should also be able to discuss everyday preferences, such as what you cook or how you spend a quiet evening. Build small groups of relevant words around these subjects, rather than writing a complete speech for each one.
+For home, you could collect language for the type of building and its location. Then add phrases you would use to explain a preference: within walking distance or too noisy in the evening. Use only phrases whose meaning you understand.
+The IELTS website's guide to the three parts describes Part 1 as a conversation about familiar topics. Familiar does not mean identical: listen to the wording before deciding which detail to give.
+## Let the question set the answer length
+There is no fixed number of sentences or seconds you must use for every Part 1 answer. A short factual question may need less explanation than a question about why your preferences have changed. Give the answer first, add a useful detail and notice whether you have reached a natural stopping point.
+Compare Yes, I do with Yes, I often cook in the evening. I spend most of the day at a desk, so preparing dinner gives me something practical to do. The second response gives the examiner more language to hear and explains the answer.
+You do not need a further story about every meal you have made. If the next sentence repeats your reason in different words, stop. The examiner can ask another question when more is needed.
+## Use an answer, a reason and a detail when they fit
+This pattern helps when a question asks about a preference. First state your preference. Explain why it matters, then add a detail if the reason still feels vague. It is a thinking aid, not a script that every answer must follow.
+For a question about reading at home, a response could be: I prefer reading at the kitchen table because the light is better there. My bedroom only has a small lamp, and I find long articles tiring to read in it. The detail makes the reason concrete.
+A factual question may need a different shape. I work in a small shop that sells household items. Most of my day involves helping customers find what they need. That answer explains the job. Adding an unrelated opinion would make it less focused.
+## Notice the time before choosing a tense
+Topic practice often goes wrong when you rehearse only the present. Listen for words such as usually, when you were younger and would like. They change the job your verbs need to do.
+- A present habit: I usually walk to work because the route through the park is pleasant.
+- A finished period: When I was younger, I travelled to school by bus.
+- A change continuing into the present: I've started cycling more often since I moved.
+- A possible future preference: I'd like to live closer to my family, although I would miss this area.
+Practise these changes around one subject before adding another. Ask yourself about your home now, your childhood home and the home you would like later. The aim is to connect time and meaning, not to insert a different tense into every sentence.
+## Answer honestly when a topic does not fit
+You may dislike an activity or have little experience of it. Say that and offer the closest relevant explanation. You do not have to invent an enthusiastic hobby to keep speaking.
+If asked about gardening, for example: I don't do much gardening because I live in a flat without a balcony. I do keep a small plant on the kitchen windowsill, although I sometimes forget to water it. The answer stays on the subject while acknowledging limited experience.
+If you are neither working nor studying, describe your current situation briefly. You might be looking for work or taking time to decide what to study. Practise the language you actually need to explain your circumstances, instead of borrowing a model answer about an imaginary degree.
+## Ten original practice questions
+These questions were written for practice. Use them to exercise different response types. Start without notes, then listen to your recording before trying an answer again.
+- Which room in your home do you use most during the day?
+- What would you like to change about the area where you live?
+- What did you enjoy doing near your home when you were a child?
+- Which part of your working or studying day requires the most concentration?
+- Has the way you organise your day changed recently?
+- Do you prefer spending a quiet evening alone or with someone else?
+- When did you last learn to cook something new?
+- How often do you use a library?
+- Is there a practical skill you would like to learn?
+- Do you usually make plans for the weekend in advance?
+On a second attempt, keep your main answer but change one supporting detail. This checks whether you can express the idea in more than one way. Do not keep repeating until you can recite the first version word for word.
+## Listen for evidence in your recording
+Pick two answers and write down exactly what you said. Check whether the first sentence answers the question. Then circle repeated words and mark any place where you abandoned a sentence. Choose one problem that you can hear, rather than deciding the whole recording is poor.
+The examiner listens for Fluency and coherence, Lexical resource, Grammatical range and accuracy, and Pronunciation across the Speaking test. The guide to the public band descriptors explains those criteria. For a short practice session, turn one observation into one action: finish the sentence before correcting it, for example, or replace an unclear word with a phrase you know.
+## Practise handing the conversation back
+Part 1 is an exchange. Answer, develop the idea where useful and let the examiner speak. A practice partner can help by changing topics without warning and asking a different question when you expect a familiar one.
+If you miss a question, ask for it to be repeated. If the examiner moves on, leave the unfinished detail and listen. You are practising attention as well as English. The ability to respond to a small change in wording is more useful than a polished paragraph that answers a different question.
+BandNine lets you practise Part 1 questions aloud with Alex, its live AI examiner.
+
+## Questions people ask
+
+How long should an IELTS Speaking Part 1 answer be?
+There is no fixed duration or sentence count for each answer. Answer the question directly, then add a relevant reason or detail. Stop when you have explained your meaning instead of repeating the same point.
+
+What topics are in IELTS Speaking Part 1?
+Part 1 covers familiar subjects, including home, work, study and everyday interests. Practise explaining your own experiences and preferences, while listening carefully for the particular question and the time it asks about.
+
+What if I have no experience of a Part 1 topic?
+Say so briefly and explain the closest relevant experience or preference. If you rarely garden, for example, you can explain why and mention any plants you keep. You do not need to invent an elaborate personal history.
+
+---
+
+# IELTS Speaking Part 2 topics: practise by category
+
+URL: https://bandnine.org/blog/ielts-speaking-part-2-topics
+Published: 2026-10-21
+
+IELTS Speaking Part 2 topics become less intimidating when you practise choosing an example, rather than collecting answers. A task card about a person and a task card about learning something may draw on the same memory, but they ask you to describe different things. Your preparation needs to leave room for that difference.
+The twelve task cards below are original practice material written for this guide. They are not predictions of questions in your Speaking test. Use them to practise noticing what a prompt requires and finding enough relevant detail for the long turn.
+## Use categories to find material
+People, places and objects give you something concrete to describe. Events and experiences ask you to explain what happened, often with a change in how you felt or thought. These are useful practice categories, not a complete classification of IELTS questions.
+The IELTS website describes the long turn as a task with 1 minute to prepare and up to 2 minutes to speak. Choose a subject you can describe without spending the preparation time searching for specialist vocabulary.
+For each category, keep a few memory notes rather than a written speech. A repair you watched might supply a person, an object or an experience. The examiner listens to how you organise and express your ideas, not how unusual your choice is.
+## People and what they do
+A person becomes easier to describe when you show them doing something. Instead of listing adjectives such as patient or helpful, recall a moment that explains your choice. These cards ask about different qualities, so the same anecdote may not fit all of them.
+- Describe a person who taught you a practical skill.
+Say who the person is, what they taught you, and how they taught it. Explain why their way of teaching helped you.
+- Describe a person you know who organises things well.
+Say how you know this person, what they organise, and what you have seen them do. Explain how their organisation affects other people.
+- Describe a person whose opinion you value.
+Say who this person is, what you usually discuss, and when you last asked for their opinion. Explain why you take their advice seriously.
+A relevant opening for the first card could be: My aunt taught me to mend a torn pocket. She did the first few stitches, then handed the needle to me and waited while I tried. You now have a specific method to explain.
+## Places and how you use them
+You do not need a famous destination. Somewhere ordinary gives you details about what you do there and how it differs from other places. Keep the description connected to the card's purpose.
+- Describe a place where you go to concentrate.
+Say where it is, when you go there, and what you do there. Explain what makes this place suitable for concentrating.
+- Describe an outdoor place you would like to visit again.
+Say where it is, when you first visited, and what you did during that visit. Explain why you would like to return.
+For the first card, the position of a desk might matter more than the building's history: The desk faces a wall, so I don't keep looking up when someone walks past. The detail supports your explanation rather than filling time.
+## Objects and their value to you
+Describe enough of an object for the listener to picture it, then explain its role. A long account of its colour and shape gives you less to develop than a particular occasion when you used it.
+- Describe an object you use more often than you expected.
+Say what it is, how you got it, and how you use it now. Explain why it has become useful to you.
+- Describe something you kept after it stopped working.
+Say what it is, when you got it, and what happened to it. Explain why you decided to keep it.
+These prompts need different explanations. A broken radio might fit the second because it belonged to a relative. It would need a believable current use to fit the first. Familiar material does not remove the need to answer the wording.
+## Events with a clear sequence
+An event has a setting and a sequence you can follow. Give enough background to make sense of what happened, but save time for the final explanation. The most interesting moment is often a small change in the plan.
+- Describe a small celebration you helped to organise.
+Say what the celebration was for, where it took place, and what you did to help. Explain which part you remember most clearly.
+- Describe an event that did not go as planned.
+Say what the event was, what you expected to happen, and what happened instead. Explain how you felt about the change.
+An opening such as We planned to eat outside, but it started raining while we were carrying the food out gives you a clear next step. Explain what you did, then how that changed the occasion.
+## Experiences and what changed
+For an experience, the change may be in your understanding rather than in the situation. You can describe something modest. Learning to do an everyday task gives you as much material as an expensive trip if you explain it clearly.
+- Describe a time you learnt something by making a mistake.
+Say what you were doing, what mistake you made, and what you did afterwards. Explain what you learnt from the experience.
+- Describe a time you had to wait longer than expected.
+Say where you were, what you were waiting for, and how you spent the time. Explain how you felt during the wait.
+- Describe a time you changed your opinion about an activity.
+Say what the activity was, what you thought beforehand, and what happened when you tried it. Explain why your opinion changed.
+Listen for the time relationship. The third card needs both an earlier opinion and a later view: I thought growing herbs would be difficult, but after a month I realised the main problem was remembering to water them.
+## Adapt the memory to the exact request
+Suppose you remember cooking with a cousin for a family celebration. The person card could focus on how your cousin explained a method. The event card could focus on preparing the meal. The experience card could focus on what you learnt after burning the first batch.
+Before reusing that memory, finish this sentence: "This answers the card because..." If the connection is weak, choose something else. Then replace the opening and the explanation, not merely the noun. Read the Part 2 task card technique for a way to turn your chosen material into preparation notes.
+## Check relevance after you speak
+Choose one card without preparing an answer beforehand. Give yourself 1 minute for notes, then record the long turn. Afterwards, write down what the card asked you to explain and what you actually explained.
+If they differ, repeat the explanation first. Then attempt the whole card again. On another day, use a different card from the same category. This tests whether you can select useful details again, rather than repeat a speech you now remember.
+BandNine lets you practise Part 2 task cards with Alex, its live AI examiner.
+
+## Questions people ask
+
+What topics come up in IELTS Speaking Part 2?
+Task cards can ask you to describe people, places, objects, events or experiences. These are useful practice categories, not an exhaustive list. Read the particular prompt carefully, including what it asks you to explain, before choosing your example.
+
+Can I use the same story for different Part 2 topics?
+Yes, when the memory fits the exact request. A family celebration might support a card about an event or someone who helped organise it. Change the focus and explanation to answer the new card. Do not force an unrelated story into the prompt.
+
+Should I memorise answers for IELTS Speaking Part 2?
+Prepare memories and useful vocabulary rather than complete speeches. A memorised answer may miss the wording of a new card. Practise choosing details during the preparation minute and explaining their relevance in your own words.
+
+---
+
+# IELTS Speaking Part 2: a cue card technique for the full two minutes
+
+URL: https://bandnine.org/blog/ielts-speaking-part-2-cue-card-technique
+Published: 2026-10-21
+
+Part 2 is the only part of the Speaking test where you talk alone. The examiner hands you a card with a topic and three or four points, gives you a pencil and paper, and says you have one minute to prepare. Then you speak for one to two minutes, and the examiner stops you. Many candidates call it the cue card; IELTS calls it the task card. Both mean the same thing.
+Most people who struggle with Part 2 do not struggle with English. They struggle with the minute of silence, then with the moment, about forty seconds in, when the story runs out. This guide gives you a routine for both.
+## What the examiner is listening for
+Part 2 is marked with the same four criteria as the rest of the test: Fluency and coherence, Lexical resource, Grammatical range and accuracy, and Pronunciation. The examiner is not ticking off the points on the card. The points are there to help you find things to say. What the long turn shows, more clearly than Part 1, is whether you can keep going on one subject, organise what you say and control your tenses while you do it.
+That has two practical consequences. First, a simple, true example told well is better than an impressive one you have to invent on the spot. Second, speaking for the full two minutes matters, because a talk that stops at one minute gives the examiner less evidence of your range.
+## The first ten seconds: choose, do not search
+Read the top line of the card twice. It tells you the subject and the tense. "Describe a story you read that you later discussed with someone" is about the past. "Describe a skill you would like to learn" is about the future and your reasons. Underline the verb in your head.
+Then choose the first real example that comes to mind and stay with it. It is easy to spend half the minute weighing two options. If nothing real comes to mind, take something close to real: a book a friend described to you is still a book, and you can describe it honestly as one you heard about.
+## Notes that help you speak
+You have about fifty seconds left. Do not write sentences. You will not have time, and if you read them aloud your speech will slow down and flatten. Write single words or short phrases, one line for each point on the card, plus one line of your own.
+For the story card above, a useful set of notes looks like this:
+what: short story, flood, village, old radio
+when / where: last winter, train to Izmir
+who with: my cousin, a teacher, read it for class
+why discussed: ending unclear, we disagreed
+now: I read endings more slowly
+The last line is the one most candidates skip. The final point on a task card nearly always asks you to explain: why it mattered, how you felt, what you learnt. That is where you show opinions, reasons and a change of tense, so give it a word or two in your notes and plan to spend the most time there.
+## A shape for the talk
+A simple order keeps the talk coherent without sounding rehearsed. Use the card's points in this order, whatever order they are printed in:
+- Name it in one sentence. "I'd like to talk about a short story I read last winter, about a village during a flood."
+- Set the scene. When and where you met it, in two or three sentences. This is the easiest part to say and it settles your nerves.
+- Tell what happened, with one detail. One concrete detail is worth more than a list: the old radio the family kept listening to, the colour of the water, the line you remember.
+- Bring in the other person. Who, and what they said. Reported speech gives you a natural change of structure: "She thought the father had made the wrong choice."
+- Explain, and come up to the present. Why it stayed with you, and what has changed since. This is where the present perfect belongs: "I've read that writer's other stories since then."
+## When you run out of things to say
+It happens to almost everyone at some point. Do not apologise and do not stop. Look at your notes and use one of these moves:
+- Add a reason. "The reason it stayed with me is that…"
+- Give an example. "For instance, there was one scene where…"
+- Make a contrast. "Most stories I read for school were quite different, because…"
+- Compare then and now. "At the time I thought…, but now I think…"
+- Say how it felt. Name the feeling, then say what caused it.
+Each move gives you another thirty seconds of connected speech, and each uses a different grammatical pattern. That is the coherence and range the examiner is listening for, produced without a memorised template.
+## Language that sounds prepared in the wrong way
+Examiners hear the same openings many times a day. "Well, this is a very interesting question" or a long, learnt introduction about why stories are important to society adds nothing and can sound memorised, which works against you. Start with the subject. The same goes for idioms placed for show: one natural, accurate phrase is better than three that do not quite fit the story.
+## The end of the long turn
+Keep talking until the examiner stops you. At two minutes they will interrupt, politely, and that is normal: it does not mean you did something wrong. They may then ask one or two short rounding-off questions, such as whether you often discuss books with friends. Answer in a sentence or two. Part 3 follows straight after, with broader questions linked to the same topic, so the ideas you used in Part 2 may be useful again.
+## How to practise this week
+Practise the routine, not the topics. What transfers from one card to another is the habit: ten seconds to choose, fifty seconds of keyword notes, five steps, and the explain point at the end.
+- Take any card, set a timer for one minute and write your notes.
+- Record yourself speaking until a second timer reaches two minutes.
+- Listen back once. Mark where you paused for more than a few seconds and what you were trying to say.
+- Speak the same card again straight away, using one of the moves above at the point where you stopped.
+The second attempt is where most of the improvement happens. Saying a better version aloud, while the first one is still fresh, fixes it in a way that reading feedback does not.
+BandNine runs Part 2 this way: Alex hands you a task card, the one-minute preparation clock runs, and you speak until Alex stops you at two minutes. The report then quotes the lines that cost you, and Say it again lets you answer with the better version straight away. The bands it shows are AI practice estimates, not official IELTS results.
+Next: how the IELTS Speaking band descriptors work
+
+## Questions people ask
+
+How long should I speak in IELTS Speaking Part 2?
+Aim for the full two minutes. The examiner stops you at two minutes, and a talk that ends at one minute gives less evidence of your range. Keep going until you are stopped.
+
+Should I write full sentences in the one-minute preparation?
+No. Write single words or short phrases, one line for each point on the card and one for the final point. Reading sentences aloud slows and flattens your speech.
+
+---
+
+# IELTS Speaking Part 3: discuss unfamiliar ideas
+
+URL: https://bandnine.org/blog/ielts-speaking-part-3-discussion
+Published: 2026-10-21
+
+IELTS Speaking Part 3 asks you to discuss ideas beyond your own experience. After describing a helpful person in Part 2, you might discuss why people volunteer or who should support a neighbourhood. You do not need a prepared opinion on every issue. You need to understand the question and give the listener a reason to follow your answer.
+This guide uses invented practice questions and short candidate answers. Treat them as examples of how an idea develops, rather than lines to memorise. A different view can work equally well if you explain it clearly.
+## Move beyond the personal example
+Part 1 often asks about your habits or preferences. Part 3 asks you to consider people more generally, compare situations or explain a possible cause. The discussion lasts 4 to 5 minutes and is broadly connected to the subject of Part 2.
+The IELTS website describes Part 3 as a discussion of more general and abstract ideas. The examiner may ask you to explain an opinion or speculate. You are showing how you handle the language needed for that discussion, not demonstrating specialist knowledge.
+A personal example can help, but it should support a wider point. If the question is about why adults find learning difficult, an account of your own lessons needs a connection to pressures that other adults might face.
+## Identify the kind of answer being requested
+Listen to the whole question before choosing a direction. The topic alone is not enough. Two questions about public transport can require very different answers.
+- A question beginning with why needs an explanation of a cause or motive.
+- A comparison needs a difference between the groups or periods named.
+- A question about what should happen needs a proposal and a reason for it.
+- A question about what might happen needs a possibility, with some explanation of its likelihood or conditions.
+For "Why do some people prefer buses to driving?", saying that buses are important does not yet answer why people choose them. A closer answer starts with a motive: Cost is probably one reason. Someone who travels into the centre every day may spend less on a bus pass than on parking.
+## Develop one point before adding another
+An opinion, a reason and an example can give an answer shape, but they are not compulsory steps in every response. Sometimes a comparison explains your view more clearly than an example. Sometimes the examiner asks a follow-up before you reach either.
+Consider the practice question "Should children help with jobs at home?" A candidate might say: I think they should, provided the jobs suit their age. If a child puts their own clothes away, they begin to understand that the house doesn't organise itself. I wouldn't expect a young child to cook alone, though.
+The condition limits the opinion. The example explains the reasoning, and the final sentence shows where that reasoning stops. There is no need to add several unrelated benefits. Develop the point until the listener understands it, then allow the discussion to move on.
+Part 3 uses the same criteria as the rest of the Speaking test. The guide to the public band descriptors explains how connected ideas and flexible language contribute to the assessment.
+## Use conditionals when the idea needs them
+Speculation is a natural opportunity to use conditional sentences. Start with the situation you mean. For a realistic future possibility, you might say: If bus services become more frequent, more people may leave their cars at home. The present tense after if sets the condition; may keeps the prediction cautious.
+For an imagined change, try: If every neighbourhood had a small library, people would have somewhere nearby to study. You are discussing a hypothetical arrangement, so had and would belong together.
+Neither pattern needs to appear in every answer. Forcing a conditional into a question about your own past can make your meaning less clear. Practise choosing between an existing fact and an imagined possibility, then use the grammar that expresses your choice.
+Avoid claiming to know how everyone would behave. Words such as some, might and in many cases help you make a claim that your explanation can support.
+## Take thinking time without giving a speech about thinking
+A brief pause to decide what you think is normal conversation. You can also begin with a short, useful qualification: I think it depends on how far people live from work. That sentence gives you a direction as well as a moment to organise the next idea.
+A long opening praising the question does neither. Repeating That's a very interesting question before each answer uses time without adding meaning. If you have no firm opinion, say what you can assess: I haven't considered the cost, but I can see a practical benefit.
+Then explain the benefit. The thinking phrase should lead into your answer. It should not become a place to wait while searching for a complete speech.
+## Make comparisons on the same basis
+Take this practice question: "How does learning a practical skill alone differ from learning with a teacher?" Choose one basis for comparison, such as feedback or control over your time. Comparing the cost of one option with the enjoyment of the other makes the difference harder to follow.
+A candidate could say: When you learn alone, you can repeat something as often as you need. The difficulty is that you may repeat the same mistake without noticing it. A teacher can point it out, although you might have less choice over the pace of the lesson.
+The answer stays focused on how learning proceeds. It also avoids treating either method as suitable for everyone. To extend it, name a condition: For something involving tools, I'd want someone to check my technique before I practised alone. That detail explains when the difference matters.
+## Separate a possible cause from a certainty
+Broad questions can tempt you to invent facts. You do not need survey figures to discuss why a habit might be changing. Give a plausible explanation and make the limits of your claim clear.
+For "Why might people spend less time speaking to their neighbours?", a candidate could say: One possibility is that people's schedules overlap less. If someone works evenings, they may rarely meet the people living next door. That won't explain every case, but it could make regular conversation harder.
+This is a reasoned possibility, not a claim about a measured trend. Notice the difference between the question's assumption and your own experience. If you do not recognise the trend, you can qualify it: That hasn't been my experience everywhere, although it may happen where people move frequently. You have still engaged with the discussion.
+## Practise the follow-up, not only the first answer
+Record an answer to one question above. Then ask yourself a follow-up such as "Why would that matter?" or "Would that be true for everyone?" Answer without replaying the first recording. This makes you work with the idea you have already introduced.
+Listen afterwards for the point where your meaning became unclear. Was the reason missing, or did you change subject? Repeat that passage with one relevant explanation. On your next attempt, use a different question so that the improvement comes from organising an answer, not remembering its wording.
+BandNine lets you practise Part 3 discussions with Alex, its live AI examiner.
+
+## Questions people ask
+
+How long is IELTS Speaking Part 3?
+Part 3 lasts 4 to 5 minutes. The examiner asks broader questions connected to the subject of Part 2. You discuss ideas through explanations, comparisons or speculation, with follow-up questions as the discussion develops.
+
+What should I do if I have no opinion in IELTS Speaking Part 3?
+Take a brief thinking pause and choose an aspect you can discuss. You can qualify your view, for example by considering a practical benefit while acknowledging uncertainty about cost. Explain that aspect rather than spending the answer saying that you do not know.
+
+How long should my Part 3 answers be?
+There is no fixed sentence count to aim for. Answer the question and develop your point enough for the examiner to follow your reasoning. A relevant example or qualification may help. Allow the examiner to ask follow-up questions rather than forcing every answer into a prepared structure.
+
+---
+
+# IELTS Speaking preparation: a four-week study plan
+
+URL: https://bandnine.org/blog/ielts-speaking-study-plan
+Published: 2026-10-21
+
+IELTS Speaking preparation needs a routine that turns one recorded difficulty into something you can practise the next day. A calendar full of mock tests is not enough if you keep making the same mistake without working on it. This four-week plan uses a daily 20-minute session, with one main criterion each week and a few full mock tests to check what carries into unfamiliar questions.
+Four weeks is a planning period, not a promise about your eventual band. Keep the routine if it helps you study consistently, and change the focus when the evidence in your recordings points elsewhere.
+## Start with one uninterrupted mock test
+On the first day, record a full Speaking practice test. Use unfamiliar questions and follow the three-part order. Give yourself 1 minute to prepare for Part 2 and up to 2 minutes for the long turn. Avoid restarting after a mistake: you need to hear how you manage it while continuing.
+The IELTS website provides Speaking sample tasks and confirms that the Speaking test is the same for Academic and General Training. Use the format to organise your baseline recording, rather than reading sample answers aloud.
+Afterwards, find two moments that were difficult to follow. Write the time in the recording, your actual words and what went wrong. Add one next action. For example, a repeated pause before past-tense verbs suggests a short practice activity with past events, rather than another general conversation about your hobbies.
+You can use the guide to the Speaking band descriptors to connect that evidence with the four criteria. Do not assign yourself a band from one sentence. If you cannot tell what caused a problem, ask a teacher or practice partner to listen to that particular passage.
+## Keep a repeatable 20-minute session
+Use the same structure on ordinary practice days so that planning the session does not consume it:
+- Listen for 3 minutes. Replay yesterday's target passage and decide what you want to change today.
+- Drill for 4 minutes. Work on the phrase, structure or speech habit behind that problem.
+- Speak for 5 minutes. Answer fresh questions or give a long turn, using the feature without reading a prepared answer.
+- Review and retry for 5 minutes. Listen to one part of the recording, then say a clearer version aloud.
+- Log for 3 minutes. Note what changed, what still needs attention and the question you will use next time.
+On a full mock day, replace this sequence with the test and a short review. An 11–14-minute test leaves 6–9 minutes within your session for identifying the next focus. Do not fit a second full routine into the same slot.
+## Week one focuses on Fluency and coherence
+Start by making your answers easier to follow. In Part 1, answer the question before adding background. In Part 3, explain one reason far enough that the listener understands it. In Part 2, notice where your story loses its direction rather than counting every hesitation.
+Use a question such as why people return to the same holiday destination. Record one answer, then describe its main point in a single sentence. If you cannot do that, your next attempt needs a clearer direction.
+Familiar places take less planning. If a family already knows where to stay, they can spend their short holiday resting instead of working out how everything works.
+The example develops one reason. During the week, practise the same kind of development with new subjects. Keep normal pauses; removing every pause is not the goal.
+## Week two focuses on Lexical resource
+Take vocabulary from gaps in your own answers. If you repeatedly call places nice, decide what you meant: quiet enough to read, convenient for buses or well maintained. Practise the phrase that expresses that meaning, with words that commonly occur together.
+Keep a small list of useful combinations, each attached to an answer you have actually given. Say The library is within walking distance, so I go there after work. Then use within walking distance in an answer about shopping. Changing the context checks whether you understand the phrase beyond one sentence.
+Include paraphrasing. Explain an object without naming it, then continue the answer. At the end of day 14, take another full mock with different questions. Listen for whether you can find another expression when the exact word does not arrive.
+## Week three focuses on Grammatical range and accuracy
+Choose a recurring pattern, not every error in the transcript. If past events keep slipping into the present, spend your drill time contrasting yesterday with your usual routine. If your sentences stop after because, practise finishing the reason before adding another idea.
+I normally cook at home, but yesterday I ate out because I had stayed late at work.
+Here, the tense changes follow changes in time. Say your own version about a different event. A sentence you understand is more useful than a complicated structure you cannot adapt.
+Later in the week, answer a Part 3 question that needs a condition, such as what might persuade people to use buses more often. Check whether the condition and its consequence belong together. Continue practising longer answers so that grammar work remains connected to speaking.
+## Week four focuses on Pronunciation
+Listen to the audio before looking at the transcript. Choose a word a listener could not catch, or a sentence whose emphasis hid your main point. Practise it in a short phrase and then in an answer.
+For example, I wanted to go on Saturday, but we went on Sunday. The contrast between the days needs to be audible. Raising your volume across the whole sentence does not help the listener identify that contrast.
+Keep earlier targets active by including them in your new answers. You are changing the main focus, not abandoning the other criteria. If the baseline showed that pronunciation was your clearest difficulty, move this week earlier and keep one main criterion per week.
+## Use mock tests to check transfer
+Compare the first recording with day 14 and another full mock on day 25. Use different questions but similar recording conditions. A polished repeat of the same answer can show useful rehearsal without showing how you cope with something unfamiliar.
+For each comparison, look at the problem you originally logged. Is the past time clearer? Does the explanation stay connected? Can the listener catch the important word without replaying it? Keep the actual passage as evidence rather than relying on how confident you felt.
+If the problem remains, make the drill narrower. Work on one tense contrast or one sentence boundary. If it appears less often across several new answers, choose another target. These checks guide study decisions; they do not turn a home recording into an examiner's assessment.
+## Keep the last three days familiar
+On day 26, revisit the error log and practise two recurring difficulties. On day 27, do a short selection of familiar question types and check your test appointment instructions. On day 28, keep speaking practice light and review the routine for entering each part.
+These days are for maintaining habits you already use. Avoid learning a long answer that you would have to force onto an unexpected question. If you miss a session earlier in the month, resume with the next small task; doubling the following session is not required.
+BandNine provides Speaking mock tests with Alex, its live AI examiner, and feedback you can use to choose the next day's practice focus.
+
+## Questions people ask
+
+Is four weeks enough for IELTS Speaking preparation?
+That depends on your starting point and what you need to change. Four weeks gives you a manageable practice cycle, not a promised band. Compare recordings on unfamiliar questions and adjust the plan when recurring difficulties remain.
+
+How long should I practise IELTS Speaking each day?
+This plan uses 20 minutes a day, including listening, a focused drill, speaking and review. On mock days, replace that sequence with the full test and a short review rather than adding another session.
+
+How often should I take a full Speaking mock test?
+In this plan, take one at the start, one on day 14 and one on day 25. Use different questions each time. Spend the intervening days practising difficulties from the recordings.
+
+---
+
+# The IELTS Speaking test, part by part
+
+URL: https://bandnine.org/blog/ielts-speaking-test-format
+Published: 2026-10-21
+
+The IELTS Speaking test lasts 11–14 minutes and has three parts. You begin with questions about familiar things, give a longer talk on a task card, then discuss broader ideas with the examiner. Knowing this order helps you spend your attention on the question in front of you instead of wondering what happens next.
+The Speaking test is the same for IELTS Academic and IELTS General Training. You do not need specialist knowledge for either version. You need to understand the question and express your own meaning in English.
+## The order and timing
+The IELTS website describes the Speaking test format and the purpose of each part. Keep this outline beside you for your first practice session, then put it away when you rehearse a complete test.
+- Part 1 lasts 4–5 minutes. The examiner introduces themselves, checks your identity and asks questions on familiar topics.
+- Part 2 lasts 3–4 minutes in total. You have 1 minute to prepare, speak for 1–2 minutes, and answer one or two rounding-off questions.
+- Part 3 lasts 4–5 minutes. You discuss ideas connected with the topic in Part 2.
+The examiner manages the time. You do not need to calculate how much remains or change your pace to make the whole test last longer. Practise responding when the examiner moves on.
+## Part 1 starts with familiar subjects
+Questions may concern your home, work, studies or leisure activities. Their everyday nature does not mean that a yes or no is enough. Add a relevant detail so the examiner can hear you explain something.
+For a practice question about your home, you might say: I live in a small flat near the centre. The kitchen is quite narrow, but the living room gets sunlight in the morning, which I like. This gives a direct answer and a little description without becoming a long story.
+Listen for changes in time. A question about where you live now needs a different answer from a question about where you grew up. Familiar vocabulary can hide an unfamiliar question, so do not start a prepared speech when you recognise a topic word.
+## Part 2 gives you a long turn
+The examiner gives you a task card with a topic and prompts, plus paper and a pencil for notes. Use the preparation minute to choose an example and write a few reminders. Full sentences take time to write and can tempt you to read instead of speak.
+You then speak for 1–2 minutes. Aim to develop the subject until the examiner stops you. If you finish one detail, explain why it matters or describe what happened next. You are showing that you can organise a longer stretch of speech.
+Afterwards, the examiner may ask one or two rounding-off questions about the same subject. These call for brief responses, not another long turn. A change in the examiner's instructions signals that you should change the length of your answer.
+## Part 3 moves towards wider ideas
+The discussion grows out of Part 2, but it asks you to look beyond your own experience. A talk about a useful object might lead to questions about why people replace things or how buying habits change.
+Give an opinion you can explain. You do not have to choose the most sophisticated position. For example: I think people replace household equipment too quickly. Sometimes a small repair would keep an appliance working, but finding someone to repair it can be difficult.
+The examiner may ask why, ask you to compare situations or introduce another view. Treat that as a new question. Listen before extending the previous answer. If your first explanation was narrow, the follow-up gives you a chance to make the distinction clearer.
+## The examiner listens across the whole test
+The same four criteria apply throughout: Fluency and coherence, Lexical resource, Grammatical range and accuracy, and Pronunciation. There is no separate band for each part. A conversation about your neighbourhood and a discussion about social change both provide evidence of your English.
+That means you should keep speaking naturally after a difficult answer. Replaying a grammar mistake in your head makes the next question harder to hear. If a quick correction helps the meaning, make it and continue; do not interrupt every sentence to repair a minor detail.
+Our guide to the public Speaking band descriptors explains the criteria in more detail. Use it to identify a practice focus after recording, rather than trying to monitor four criteria while answering.
+## Prepare for your appointment
+Read the instructions from your test centre before the day. Check the Speaking appointment time, the location and the identity document you must bring. Follow those instructions for arrival and belongings. Do not assume that a friend's arrangements apply to your booking.
+If the centre has arranged a video-call Speaking test, read its instructions about the setting and equipment. The conversation still needs your full attention. Let staff know if you cannot hear clearly, rather than guessing what the examiner said.
+In the room, use your normal speaking volume and sit in a position that lets you breathe comfortably. An elaborate greeting adds nothing. Respond to the introduction, follow the identity check and wait for the first question.
+## Handle interruptions and missed questions
+The examiner may stop an answer to keep the test moving. An interruption is not evidence that your English was poor. Stop speaking, listen to the next question and answer it. Finishing your previous story over the examiner's voice makes that harder.
+If you have not heard a question, ask for it again: Could you repeat the question, please? If you need a moment to think, a short pause is better than several sentences about how difficult the question is.
+You also do not need to agree with an idea because the examiner mentions it. Explain your position politely. The language you use to support an opinion matters; there is no requirement to match the examiner's personal views.
+## Rehearse the changes between parts
+A useful first rehearsal tests your ability to change speaking habits. Answer several short questions, take 1 minute to prepare a task card, give the long turn and move straight into a broader discussion. Ask a practice partner to manage the timing so you cannot pause the exercise whenever an answer feels difficult.
+Listen back for the transitions. Did you continue giving very short answers in Part 3? Did you keep telling a personal story after the question asked about people generally? Choose the clearest mismatch and practise that transition again with a different subject. This makes the format familiar without teaching you to depend on memorised answers.
+BandNine lets you rehearse the three-part Speaking test with Alex, its live AI examiner.
+
+## Questions people ask
+
+How long is the IELTS Speaking test?
+The Speaking test lasts 11–14 minutes. Part 1 takes 4–5 minutes, Part 2 takes 3–4 minutes including preparation and rounding-off questions, and Part 3 takes 4–5 minutes.
+
+Is IELTS Speaking different for Academic and General Training?
+The Speaking test is the same for IELTS Academic and IELTS General Training. Both use three parts and the same four assessment criteria.
+
+Why does the IELTS Speaking examiner interrupt me?
+The examiner controls the timing and may stop you to move to another question or part. An interruption alone does not tell you how well you are performing. Stop, listen and answer the next question.
