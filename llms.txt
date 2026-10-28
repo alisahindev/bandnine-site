@@ -33,6 +33,7 @@
 
 ## Pages
 
+- [About BandNine](https://bandnine.org/about): who makes the app and how these guides are written and checked
 - [Support](https://bandnine.org/support): contact, restoring purchases, cancelling Plus, microphone problems
 - [Privacy policy](https://bandnine.org/privacy)
 - [Terms of use](https://bandnine.org/terms)
