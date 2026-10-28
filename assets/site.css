@@ -366,3 +366,11 @@ footer p { margin: 0; max-width: 60em; }
 button.badge { border: 0; font: inherit; font-weight: 600; cursor: pointer; }
 button.badge:disabled { opacity: .6; cursor: default; }
 .prose select { font: inherit; margin-top: 8px; padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--paper); color: var(--text); }
+
+/* Cookie choice (assets/analytics.js): Accept is the button, Reject a text link beside it (owner's call). */
+.consent { position: fixed; left: 16px; right: 16px; bottom: 16px; z-index: 20; max-width: 560px; margin: 0 auto; padding: 18px 20px; background: var(--card); color: var(--text); border: 1px solid var(--line); border-radius: 16px; box-shadow: 0 12px 40px rgb(11 31 58 / .18); font-size: 15px; line-height: 1.5; }
+.consent p { margin: 0 0 14px; }
+.consent div { display: flex; align-items: center; gap: 18px; }
+.consent button { min-height: 44px; padding: 0 22px; border: 0; border-radius: 999px; background: var(--ink); color: var(--paper); font: 600 15px/1 var(--sans); cursor: pointer; }
+.consent button:hover { background: var(--navy-3); }
+.consent button[data-consent="no"], .consent button[data-consent="no"]:hover { padding: 0; background: none; color: var(--muted); font-weight: 400; font-size: 14px; text-decoration: underline; text-underline-offset: 3px; }

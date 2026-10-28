@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Privacy policy · BandNine</title>
-<meta name="description" content="What the BandNine app stores, including your speaking recordings, transcripts and band estimates, who processes it, how long it is kept and how you delete it.">
+<meta name="description" content="What the BandNine app stores, including your speaking recordings, transcripts and band estimates, what this website records, who processes it, how long it is kept and how you delete it.">
 <link rel="canonical" href="https://bandnine.org/privacy">
 <meta name="theme-color" content="#0b1f3a">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="BandNine">
 <meta property="og:title" content="Privacy policy · BandNine">
-<meta property="og:description" content="What the BandNine app stores, including your speaking recordings, transcripts and band estimates, who processes it, how long it is kept and how you delete it.">
+<meta property="og:description" content="What the BandNine app stores, including your speaking recordings, transcripts and band estimates, what this website records, who processes it, how long it is kept and how you delete it.">
 <meta property="og:url" content="https://bandnine.org/privacy">
 <meta property="og:image" content="https://bandnine.org/img/og.jpg">
 <meta property="og:image:width" content="1024">
@@ -19,7 +19,7 @@
 <meta property="og:locale" content="en_GB">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Privacy policy · BandNine">
-<meta name="twitter:description" content="What the BandNine app stores, including your speaking recordings, transcripts and band estimates, who processes it, how long it is kept and how you delete it.">
+<meta name="twitter:description" content="What the BandNine app stores, including your speaking recordings, transcripts and band estimates, what this website records, who processes it, how long it is kept and how you delete it.">
 <meta name="twitter:image" content="https://bandnine.org/img/og.jpg">
 <link rel="icon" href="/favicon.png" type="image/png">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -63,13 +63,16 @@
 <p>Purchases are made through the App Store or Google Play. RevenueCat records which purchases belong to your account so that credits and Plus reach the right place, and we keep a record of your credit balance and how it changed. We never see your card details.</p>
 <h2>Usage events</h2>
 <p>The app sends usage events to PostHog, hosted in the EU, so we can see which parts of the app work and which do not: for example, that a test started or finished, how long the examiner took to reply, or that a screen was opened. Events are linked to your account's random identifier, so we can see how the app is used over time and across your devices. They carry basic device details such as the phone model, operating system, app version and language, and a few details from your profile: your target band, whether you have Plus, and, in broad ranges, your credit balance and the time until your test. They never contain your recordings, transcripts, name or email address, and we do not record your location.</p>
+<h2 id="website-analytics">Website analytics</h2>
+<p>This website, bandnine.org, sends visit events to PostHog, hosted in the EU, so we can see which pages people read and how they find the app. They record the pages you open, the site you came from and any campaign tags in the link, the links and buttons you click (including the App Store and Google Play badges), how far you scroll, how quickly each page loads and any errors it shows, with basic details of your device and browser: its type, operating system, browser, screen size and language. We do not record your location, and the website's events are not linked to an account in the app. The pages you reach from our emails, to unsubscribe or to tell us your official band, send nothing to PostHog.</p>
+<p>On your first visit the site asks whether you accept cookies. Until you choose, and if you reject them, the site sets no cookies and stores no identifier on your device: PostHog counts your visit with a code it works out on its server from your IP address and browser, which changes every day, so visits on different days cannot be linked. If you accept, PostHog stores a random identifier in a cookie and in your browser's storage so it can recognise your next visits, and records how you move through the pages as a replay, with anything you type hidden. Your choice is kept in your browser, and Cookie settings at the bottom of every page lets you change it at any time.</p>
 <h2>Who processes your data</h2>
 <ul>
 <li><strong>Supabase</strong>, in Paris, France, stores your account, recordings, transcripts, estimates, practice answers, reports and push token.</li>
 <li><strong>Google Gemini</strong> runs the examiner and the scoring. Your voice, transcripts and recordings are sent to Google to produce the examiner's replies and your feedback.</li>
 <li><strong>Anthropic</strong> may receive the text of a transcript, never the audio, when we check the quality of our scoring by producing a second estimate for our own comparison.</li>
 <li><strong>RevenueCat</strong> handles purchase records, with Apple and Google.</li>
-<li><strong>PostHog</strong>, in the EU, receives the usage events described above.</li>
+<li><strong>PostHog</strong>, in the EU, receives the app's usage events and the website analytics described above.</li>
 <li><strong>Expo</strong>, with Apple and Google, delivers practice reminders.</li>
 <li><strong>Resend</strong> sends our emails: confirming your address, resetting your password and the progress emails. It receives your email address and the content of each email, and records whether each progress email is delivered, opened and clicked.</li>
 </ul>
@@ -85,10 +88,11 @@
 <!-- site:footer -->
 <footer><div class="wrap">
 <a class="brand" href="/"><img src="/img/icon-192.webp" width="32" height="32" alt="">BandNine</a>
-<nav aria-label="Footer"><a href="/">Home</a><a href="/blog/">Guides</a><a href="/support">Support</a><a href="/privacy">Privacy policy</a><a href="/terms">Terms of use</a><a href="/delete-account">Delete your account</a><a href="mailto:hello@bandnine.org">hello@bandnine.org</a></nav>
+<nav aria-label="Footer"><a href="/">Home</a><a href="/blog/">Guides</a><a href="/support">Support</a><a href="/privacy">Privacy policy</a><a href="/terms">Terms of use</a><a href="/delete-account">Delete your account</a><a href="/privacy#website-analytics" data-cookies>Cookie settings</a><a href="mailto:hello@bandnine.org">hello@bandnine.org</a></nav>
 <p>Bands shown in BandNine are AI practice estimates, not official IELTS results.</p>
 <p>IELTS is a registered trade mark of the British Council, IDP IELTS and Cambridge University Press &amp; Assessment. BandNine is independent and is not affiliated with or endorsed by these organisations.</p>
 </div></footer>
+<script src="/assets/analytics.js" defer></script>
 <!-- /site:footer -->
 </body>
 </html>
