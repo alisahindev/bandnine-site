@@ -374,3 +374,13 @@ button.badge:disabled { opacity: .6; cursor: default; }
 .consent button { min-height: 44px; padding: 0 22px; border: 0; border-radius: 999px; background: var(--ink); color: var(--paper); font: 600 15px/1 var(--sans); cursor: pointer; }
 .consent button:hover { background: var(--navy-3); }
 .consent button[data-consent="no"], .consent button[data-consent="no"]:hover { padding: 0; background: none; color: var(--muted); font-weight: 400; font-size: 14px; text-decoration: underline; text-underline-offset: 3px; }
+
+/* /r: the shared estimate's landing page, a blurred sample report behind its label */
+.sample { position: relative; margin: 28px 0; border-radius: 20px; background: var(--navy); color: var(--on-navy); overflow: hidden; }
+.sample-body { padding: 28px; filter: blur(7px); user-select: none; }
+.sample-body p { margin: 0 0 12px; }
+.sample-label { color: var(--on-navy-muted); font-size: 14px; text-transform: uppercase; letter-spacing: .06em; }
+.sample-band { color: var(--amber); font: 600 72px/1 var(--sans); }
+.sample dl { display: grid; grid-template-columns: 1fr auto; gap: 10px 16px; margin: 20px 0; }
+.sample dd { margin: 0; color: var(--amber); font-weight: 600; }
+.sample-tag { position: absolute; inset: 0; display: grid; place-items: center; margin: 0; font: 600 18px/1 var(--sans); color: var(--on-navy); }
